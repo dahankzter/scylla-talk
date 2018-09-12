@@ -7,7 +7,7 @@ help you might need is then restricted to Scylla and CQL.
 
 ## Mission
 
-Your mission, should you choose to accept it, is to modify and extend one or sveraly of the
+Your mission, should you choose to accept it, is to modify and extend one or several of the
 provided programs with the following.
 
 1. Have the program accept an argument in the form of a UUID and print just this row.
